@@ -1,0 +1,128 @@
+===== Tic-Tac-Toe Matchup =====
+
+Logging to file: results/result_10007534.txt
+
+Enter Player1 type:
+   "minimax" => standard Minimax
+   "random"  => random opponent
+   "buggy"   => buggy Minimax
+   "buggy2"  => buggy Minimax #2
+   or provide a Q policy filename (e.g. "q_policy.dat")
+Player1: 
+Enter Player2 type:
+   "minimax" => standard Minimax
+   "random"  => random opponent
+   "buggy"   => buggy Minimax
+   "buggy2"  => buggy Minimax #2
+   or provide a Q policy filename (e.g. "q_policy.dat")
+Player2: 
+How many games to play?: loaded q-policy: q_policy_buggy.dat
+Match 1/100 (1%) completed. Elapsed: 1.33333e-08m, Remaining: ~1.32e-06m
+Match 2/100 (2%) completed. Elapsed: 0.000465322m, Remaining: ~0.0228008m
+Match 3/100 (3%) completed. Elapsed: 0.000936365m, Remaining: ~0.0302758m
+Match 4/100 (4%) completed. Elapsed: 0.00135265m, Remaining: ~0.0324637m
+Match 5/100 (5%) completed. Elapsed: 0.00181499m, Remaining: ~0.0344848m
+Match 6/100 (6%) completed. Elapsed: 0.00223753m, Remaining: ~0.0350546m
+Match 7/100 (7%) completed. Elapsed: 0.00267632m, Remaining: ~0.0355569m
+Match 8/100 (8%) completed. Elapsed: 0.00314183m, Remaining: ~0.0361311m
+Match 9/100 (9%) completed. Elapsed: 0.0035841m, Remaining: ~0.0362392m
+Match 10/100 (10%) completed. Elapsed: 0.00396774m, Remaining: ~0.0357097m
+Match 11/100 (11%) completed. Elapsed: 0.00436203m, Remaining: ~0.0352928m
+Match 12/100 (12%) completed. Elapsed: 0.00477023m, Remaining: ~0.0349817m
+Match 13/100 (13%) completed. Elapsed: 0.00517266m, Remaining: ~0.034617m
+Match 14/100 (14%) completed. Elapsed: 0.00568993m, Remaining: ~0.0349524m
+Match 15/100 (15%) completed. Elapsed: 0.00607763m, Remaining: ~0.0344399m
+Match 16/100 (16%) completed. Elapsed: 0.00644491m, Remaining: ~0.0338358m
+Match 17/100 (17%) completed. Elapsed: 0.00680907m, Remaining: ~0.0332443m
+Match 18/100 (18%) completed. Elapsed: 0.00719077m, Remaining: ~0.032758m
+Match 19/100 (19%) completed. Elapsed: 0.0075887m, Remaining: ~0.0323518m
+Match 20/100 (20%) completed. Elapsed: 0.00797242m, Remaining: ~0.0318897m
+Match 21/100 (21%) completed. Elapsed: 0.0083647m, Remaining: ~0.0314672m
+Match 22/100 (22%) completed. Elapsed: 0.00873605m, Remaining: ~0.0309733m
+Match 23/100 (23%) completed. Elapsed: 0.00912315m, Remaining: ~0.0305427m
+Match 24/100 (24%) completed. Elapsed: 0.00950127m, Remaining: ~0.0300873m
+Match 25/100 (25%) completed. Elapsed: 0.00988735m, Remaining: ~0.0296621m
+Match 26/100 (26%) completed. Elapsed: 0.0102663m, Remaining: ~0.0292194m
+Match 27/100 (27%) completed. Elapsed: 0.0106481m, Remaining: ~0.0287893m
+Match 28/100 (28%) completed. Elapsed: 0.0110276m, Remaining: ~0.0283567m
+Match 29/100 (29%) completed. Elapsed: 0.0114076m, Remaining: ~0.027929m
+Match 30/100 (30%) completed. Elapsed: 0.0117988m, Remaining: ~0.0275306m
+Match 31/100 (31%) completed. Elapsed: 0.0121776m, Remaining: ~0.027105m
+Match 32/100 (32%) completed. Elapsed: 0.0125564m, Remaining: ~0.0266823m
+Match 33/100 (33%) completed. Elapsed: 0.0129269m, Remaining: ~0.0262455m
+Match 34/100 (34%) completed. Elapsed: 0.0133118m, Remaining: ~0.0258405m
+Match 35/100 (35%) completed. Elapsed: 0.0136912m, Remaining: ~0.0254265m
+Match 36/100 (36%) completed. Elapsed: 0.0140643m, Remaining: ~0.0250031m
+Match 37/100 (37%) completed. Elapsed: 0.0144411m, Remaining: ~0.024589m
+Match 38/100 (38%) completed. Elapsed: 0.0148124m, Remaining: ~0.0241675m
+Match 39/100 (39%) completed. Elapsed: 0.015192m, Remaining: ~0.0237619m
+Match 40/100 (40%) completed. Elapsed: 0.0155704m, Remaining: ~0.0233556m
+Match 41/100 (41%) completed. Elapsed: 0.015981m, Remaining: ~0.0229971m
+Match 42/100 (42%) completed. Elapsed: 0.0163645m, Remaining: ~0.0225986m
+Match 43/100 (43%) completed. Elapsed: 0.0167791m, Remaining: ~0.022242m
+Match 44/100 (44%) completed. Elapsed: 0.0171655m, Remaining: ~0.021847m
+Match 45/100 (45%) completed. Elapsed: 0.0175402m, Remaining: ~0.021438m
+Match 46/100 (46%) completed. Elapsed: 0.0179136m, Remaining: ~0.021029m
+Match 47/100 (47%) completed. Elapsed: 0.018287m, Remaining: ~0.0206215m
+Match 48/100 (48%) completed. Elapsed: 0.0186697m, Remaining: ~0.0202255m
+Match 49/100 (49%) completed. Elapsed: 0.0190781m, Remaining: ~0.0198568m
+Match 50/100 (50%) completed. Elapsed: 0.0194482m, Remaining: ~0.0194482m
+Match 51/100 (51%) completed. Elapsed: 0.0198263m, Remaining: ~0.0190488m
+Match 52/100 (52%) completed. Elapsed: 0.0202168m, Remaining: ~0.0186616m
+Match 53/100 (53%) completed. Elapsed: 0.0205949m, Remaining: ~0.0182634m
+Match 54/100 (54%) completed. Elapsed: 0.0209793m, Remaining: ~0.0178713m
+Match 55/100 (55%) completed. Elapsed: 0.0213546m, Remaining: ~0.017472m
+Match 56/100 (56%) completed. Elapsed: 0.0217307m, Remaining: ~0.0170742m
+Match 57/100 (57%) completed. Elapsed: 0.0221073m, Remaining: ~0.0166774m
+Match 58/100 (58%) completed. Elapsed: 0.0224957m, Remaining: ~0.01629m
+Match 59/100 (59%) completed. Elapsed: 0.0229069m, Remaining: ~0.0159184m
+Match 60/100 (60%) completed. Elapsed: 0.0232952m, Remaining: ~0.0155301m
+Match 61/100 (61%) completed. Elapsed: 0.0236733m, Remaining: ~0.0151354m
+Match 62/100 (62%) completed. Elapsed: 0.0240478m, Remaining: ~0.014739m
+Match 63/100 (63%) completed. Elapsed: 0.0244316m, Remaining: ~0.0143487m
+Match 64/100 (64%) completed. Elapsed: 0.0248283m, Remaining: ~0.0139659m
+Match 65/100 (65%) completed. Elapsed: 0.0253196m, Remaining: ~0.0136337m
+Match 66/100 (66%) completed. Elapsed: 0.025697m, Remaining: ~0.0132379m
+Match 67/100 (67%) completed. Elapsed: 0.0260904m, Remaining: ~0.0128505m
+Match 68/100 (68%) completed. Elapsed: 0.0264616m, Remaining: ~0.0124525m
+Match 69/100 (69%) completed. Elapsed: 0.0268326m, Remaining: ~0.0120552m
+Match 70/100 (70%) completed. Elapsed: 0.0272227m, Remaining: ~0.0116669m
+Match 71/100 (71%) completed. Elapsed: 0.027603m, Remaining: ~0.0112745m
+Match 72/100 (72%) completed. Elapsed: 0.027998m, Remaining: ~0.0108881m
+Match 73/100 (73%) completed. Elapsed: 0.0283987m, Remaining: ~0.0105036m
+Match 74/100 (74%) completed. Elapsed: 0.0287844m, Remaining: ~0.0101135m
+Match 75/100 (75%) completed. Elapsed: 0.0291629m, Remaining: ~0.00972098m
+Match 76/100 (76%) completed. Elapsed: 0.0295324m, Remaining: ~0.00932601m
+Match 77/100 (77%) completed. Elapsed: 0.0299166m, Remaining: ~0.00893612m
+Match 78/100 (78%) completed. Elapsed: 0.030288m, Remaining: ~0.00854276m
+Match 79/100 (79%) completed. Elapsed: 0.0306759m, Remaining: ~0.00815434m
+Match 80/100 (80%) completed. Elapsed: 0.0310563m, Remaining: ~0.00776407m
+Match 81/100 (81%) completed. Elapsed: 0.0314358m, Remaining: ~0.00737383m
+Match 82/100 (82%) completed. Elapsed: 0.0318094m, Remaining: ~0.00698256m
+Match 83/100 (83%) completed. Elapsed: 0.0321784m, Remaining: ~0.00659075m
+Match 84/100 (84%) completed. Elapsed: 0.0325601m, Remaining: ~0.00620192m
+Match 85/100 (85%) completed. Elapsed: 0.0329433m, Remaining: ~0.00581352m
+Match 86/100 (86%) completed. Elapsed: 0.0333209m, Remaining: ~0.00542433m
+Match 87/100 (87%) completed. Elapsed: 0.0337184m, Remaining: ~0.00503839m
+Match 88/100 (88%) completed. Elapsed: 0.0340954m, Remaining: ~0.00464937m
+Match 89/100 (89%) completed. Elapsed: 0.0344749m, Remaining: ~0.00426095m
+Match 90/100 (90%) completed. Elapsed: 0.0348587m, Remaining: ~0.00387318m
+Match 91/100 (91%) completed. Elapsed: 0.0352728m, Remaining: ~0.00348852m
+Match 92/100 (92%) completed. Elapsed: 0.0356544m, Remaining: ~0.00310038m
+Match 93/100 (93%) completed. Elapsed: 0.0360287m, Remaining: ~0.00271184m
+Match 94/100 (94%) completed. Elapsed: 0.0364109m, Remaining: ~0.0023241m
+Match 95/100 (95%) completed. Elapsed: 0.0367946m, Remaining: ~0.00193656m
+Match 96/100 (96%) completed. Elapsed: 0.0371924m, Remaining: ~0.00154968m
+Match 97/100 (97%) completed. Elapsed: 0.0375671m, Remaining: ~0.00116187m
+Match 98/100 (98%) completed. Elapsed: 0.0379516m, Remaining: ~0.000774523m
+Match 99/100 (99%) completed. Elapsed: 0.0383321m, Remaining: ~0.000387192m
+Match 100/100 (100%) completed. Elapsed: 0.0387191m, Remaining: ~0m
+
+Results after 100 games:
+  Player1 wins: 0
+  Draws:        0
+  Player2 wins: 100
+
+Number of unique ending board states: 2
+
+Done. Total time: 0.039122m

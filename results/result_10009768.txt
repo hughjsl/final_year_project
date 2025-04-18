@@ -1,0 +1,29 @@
+===== Tic-Tac-Toe Matchup =====
+
+Logging to file: results/result_10009768.txt
+
+Enter Player1 type:
+   "minimax" => standard Minimax
+   "random"  => random opponent
+   "buggy"   => buggy Minimax
+   "buggy2"  => buggy Minimax #2
+   or provide a Q policy filename (e.g. "q_policy.dat")
+Player1: 
+Enter Player2 type:
+   "minimax" => standard Minimax
+   "random"  => random opponent
+   "buggy"   => buggy Minimax
+   "buggy2"  => buggy Minimax #2
+   or provide a Q policy filename (e.g. "q_policy.dat")
+Player2: 
+How many games to play?: loaded q-policy: q_policy_buggy.dat
+Match 1/1 (100%) completed. Elapsed: 1e-08m, Remaining: ~0m
+
+Results after 1 games:
+  Player1 wins: 1
+  Draws:        0
+  Player2 wins: 0
+
+Number of unique ending board states: 1
+
+Done. Total time: 0.00038909m
